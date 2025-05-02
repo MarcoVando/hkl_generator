@@ -54,4 +54,4 @@ This project is licensed under the BSD 3-Clause License. See the LICENSE file fo
 
 # Acknowledgments
 
-Reflection condition data provided by the [Bilbao Crystallographic Server.](https://chatgpt.com/c/6814e111-10b4-8001-9338-b8a9651c0b5a#:~:text=by%20the%20Bilbao-,Crystallographic,-Server)
+Reflection condition data provided by the [Bilbao Crystallographic Server.]([https://chatgpt.com/c/6814e111-10b4-8001-9338-b8a9651c0b5a#:~:text=by%20the%20Bilbao-,Crystallographic,-Server](https://www.cryst.ehu.es))
