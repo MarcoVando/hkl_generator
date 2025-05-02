@@ -2,6 +2,8 @@
 
 **hkl_generator** is a Python-based tool for generating and analyzing crystallographic reflection conditions (hkl indices) using space group symmetry rules. The tool leverages data from the Bilbao Crystallographic Server to determine allowed reflections based on the space group's systematic absences.
 
+⚒️🚧 WORK IN PROGRESS. PACKAGE IS NOT COMPLETE 🚧⚒️
+
 ## Features
 
 - Generate allowed hkl reflections for a given crystallographic space group
