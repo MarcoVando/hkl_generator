@@ -1,0 +1,9 @@
+,P21/c,P21/c,P21/c,P21/c,P21/c
+,Mult.,Letter,Site Sym.,WP Representative,Reflection conditions
+0,General:,General:,General:,General:,General:
+1,4,e,1,"(x,y,z)",h0l: l=2n 0k0: k=2n 00l: l=2n
+2,"Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus"
+3,2,d,-1,"(1/2,0,1/2)",hkl: k+l=2n
+4,2,c,-1,"(0,0,1/2)",hkl: k+l=2n
+5,2,b,-1,"(1/2,0,0)",hkl: k+l=2n
+6,2,a,-1,"(0,0,0)",hkl: k+l=2n

@@ -1,0 +1,11 @@
+Todo:
+    [x] Get systematic extinctions
+    [x] save file in .csv 
+    [x] save file in .json
+    [] verify system extinctions
+    [x] find space group number given the code
+    [] get if u have to divide by 2,3,4,6 the 2n
+
+GUI:
+    [] adjust gui
+    [] add in gui plot 2D view and 3D view of lattices

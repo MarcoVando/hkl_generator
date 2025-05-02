@@ -1,0 +1,12 @@
+,Pm-3m,Pm-3m,Pm-3m,Pm-3m,Pm-3m
+,Mult.,Letter,Site Sym.,WP Representative,Reflection conditions
+0,"General:h,k,l permutable","General:h,k,l permutable","General:h,k,l permutable","General:h,k,l permutable","General:h,k,l permutable"
+1,192,h,1,"(x,y,z)","hkl: h+k=2n, h+l,k+l=2n 0kl: k+l=4n, k,l=2n hhl: h,l=2n h00: h=4n"
+2,"Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus"
+3,96,g,..2,"(1/4,y,-y)",no extra conditions
+4,96,f,2..,"(x,1/8,1/8)",hkl: h+k+l=4n
+5,64,e,.3.,"(x,x,x)",hkl: h=2n
+6,48,d,-4..,"(7/8,1/8,1/8)",hkl: h+k+l=4n
+7,32,c,.-3.,"(0,0,0)","hkl: h,k,l=4n+2 or h,k,l=4n"
+8,32,b,.32,"(1/4,1/4,1/4)","hkl: h,k,l=4n+2 or h,k,l=4n"
+9,16,a,23.,"(1/8,1/8,1/8)",hkl: h+k+l=4n

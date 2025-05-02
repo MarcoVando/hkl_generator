@@ -1,0 +1,13 @@
+,I411,I411,I411,I411,I411
+,Mult.,Letter,Site Sym.,WP Representative,Reflection conditions
+0,General:,General:,General:,General:,General:
+1,16,i,1,"(x,y,z)",hkl: h+k+l=2n hk0: h+k=2n 0kl: k+l=2n hhl: l=2n 00l: l=2n h00: h=2n
+2,"Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus"
+3,8,h,m..,"(x,y,0)",no extra conditions
+4,8,g,2..,"(0,1/2,z)",hkl: l=2n
+5,8,f,-1,"(1/4,1/4,1/4)","hkl: k,l=2n"
+6,4,e,4..,"(0,0,z)",no extra conditions
+7,4,d,-4..,"(0,1/2,1/4)",hkl: l=2n
+8,4,c,2/m..,"(0,1/2,0)",hkl: l=2n
+9,2,b,4/m..,"(0,0,1/2)",no extra conditions
+10,2,a,4/m..,"(0,0,0)",no extra conditions

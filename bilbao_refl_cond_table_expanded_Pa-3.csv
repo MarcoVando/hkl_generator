@@ -1,0 +1,7 @@
+,Mult.,Letter,Site Sym.,WP Representative,Reflection conditions,Indices class 1,Equation 1,Indices class 2,Equation 2
+0,"General:h,k,l cyclically permutable","General:h,k,l cyclically permutable","General:h,k,l cyclically permutable","General:h,k,l cyclically permutable","General:h,k,l cyclically permutable",,,,
+1,24,d,1,"(x,y,z)",0kl: k=2n h00: h=2n,0kl,k=2n,h00,h=2n
+2,"Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus","Special: as above, plus",,,,
+3,8,c,.3.,"(x,x,x)",no extra conditions,,,,
+4,4,b,.-3.,"(1/2,1/2,1/2)","hkl: h+k,h+l,k+l=2n",hkl,"['h+k=2n', 'h+l=2n', 'k+l=2n']",,
+5,4,a,.-3.,"(0,0,0)","hkl: h+k,h+l,k+l=2n",hkl,"['h+k=2n', 'h+l=2n', 'k+l=2n']",,
