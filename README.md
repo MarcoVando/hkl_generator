@@ -43,8 +43,10 @@ Alternatively, you can import functions from the module and use it programmatica
 from hkl_generator import generate_hkl
 
 # Example usage
-hkl_list = generate_hkl(space_group="Pm-3m", max_index=10)
+```
+hkl_list = generate_hkl(space_group="Pm-3m", max_index=10)  
 print(hkl_list)
+```
 
 # License
 
